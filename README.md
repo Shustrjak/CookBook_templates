@@ -1,3 +1,3 @@
 # CookBook_templates
-CookBook
+CookBook <br>
 Стартовый набор страниц для будущего блога.
